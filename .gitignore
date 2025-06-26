@@ -1,0 +1,11 @@
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.webtalk/
+*.jou
+*.log
+*.str
+*.backup
+*.tmp
+*.xsim/
